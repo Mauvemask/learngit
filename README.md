@@ -1,2 +1,2 @@
 # learngit
-learn how to use git from the beginning
+learn how to use remote repo from the beginning
